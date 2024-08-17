@@ -1,1 +1,1 @@
-# End-to-end-DL-project-using-simple-RNN
+# IMDB movie review sentiment analysis using DL AND NLP
